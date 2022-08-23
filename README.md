@@ -1,3 +1,0 @@
-# PracticeGit
-
-Readme
